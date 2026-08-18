@@ -19,7 +19,6 @@ An interactive **Power BI Retail Sales Performance Dashboard** designed to analy
 
 * **Power BI** – Dashboard development and visualization
 * **Power Query** – Data cleaning and transformation
-* **DAX** – Measures, calculations, and KPIs
 * **Microsoft Excel** – Data source and data preparation
 
 ## 📂 Data Source
@@ -55,4 +54,4 @@ Retail-Sales-Performance-Dashboard/
 
 ## 🚀 Key Skills Demonstrated
 
-**Data Cleaning | Data Transformation | Data Visualization | DAX | Power BI | Business Intelligence | Dashboard Design**
+**Data Cleaning | Data Transformation | Data Visualization | Power BI | Business Intelligence | Dashboard Design**
